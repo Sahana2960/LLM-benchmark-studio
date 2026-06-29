@@ -3,21 +3,15 @@ backend/.venv/
 __pycache__/
 *.pyc
 
-# Node
+# React
 frontend/node_modules/
 
-# Environment files
-.env
-
 # Database
-*.db
+backend/benchmark.db
 
-# Logs
-*.log
+# Generated exports
+backend/benchmark_history.csv
 
-# VS Code
-.vscode/
-
-# OS files
+# OS
 .DS_Store
 Thumbs.db

@@ -2,8 +2,8 @@ import { Routes, Route } from "react-router-dom";
 
 import Sidebar from "./components/layout/Sidebar";
 
-import Dashboard from "./pages/dashboard/Dashboard";
-import Benchmark from "./pages/benchmark/Benchmark";
+import Dashboard from "./pages/Dashboard/Dashboard";
+import Benchmark from "./pages/Benchmark/Benchmark";
 import History from "./pages/History/History";
 import Leaderboard from "./pages/Leaderboard/Leaderboard";
 import Settings from "./pages/Settings/Settings";
